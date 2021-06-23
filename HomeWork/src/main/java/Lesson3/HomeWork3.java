@@ -40,7 +40,6 @@ public class HomeWork3 {
 
     private static void task2() {
         int[] arr100 = new int[100];
-
         for (int i = 0; i < arr100.length; i++) {
             arr100[0] = 1;
             arr100[i] = arr100[0] + i;
